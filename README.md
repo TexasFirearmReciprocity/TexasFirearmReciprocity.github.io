@@ -14,9 +14,6 @@
 ## Open Records Request Response Letters
 * [Texas_AG_Response_1.pdf](Texas_AG_Response_1.pdf)
 
-## All Files from this Site
-You can directly access all files [here](https://github.com/TexasFirearmReciprocity/TexasFirearmReciprocity.github.io).
-
 ## Disclaimer
 ### No Advice
 This site contains general information. The information is not advice, and should not be treated as such.
